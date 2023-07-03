@@ -1,0 +1,69 @@
+/* Tags */
+table {
+      width: 100%;
+      border-collapse: collapse;
+}
+th, td {
+      padding: 8px;
+      text-align: left;
+      border-bottom: 1px solid #ddd;
+}
+th {
+      background-color: #f2f2f2;
+}
+
+/* Class */
+.main-buttons {
+      text-align: center;
+}
+
+.main-links ul {
+      list-style-type: none;
+      padding: 0;
+      background-color: grey;
+      border: 10px solid grey;
+}
+
+.main-links li {
+      display: inline;
+      margin-right: 10px;
+}
+
+.main-links li a {
+      color: white;
+}
+
+.main-links li a:hover {
+   background-color: darkgray;
+}
+
+/* ID */
+#btn-research {
+      margin: 25px auto 0;
+      background-color: orange;
+      color: white;
+      border-radius: 100px;
+      width: 200px;
+      height: 50px;
+      padding: 10px;
+      font-size: 16px;
+}
+
+#btn-application {
+      margin: 25px auto 0;
+      background-color: orangered;
+      color: white;
+      border-radius: 100px;
+      width: 200px;
+      height: 50px;
+      padding: 10px;
+      font-size: 16px;
+}
+
+#btn-research, a {
+      color: #4682B4;
+}
+
+#btn-application, a {
+      color: #4682B4;
+}
