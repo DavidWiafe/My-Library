@@ -60,10 +60,33 @@ th {
       font-size: 16px;
 }
 
-#btn-research, a {
+#btn-research a {
       color: #4682B4;
 }
 
-#btn-application, a {
+#btn-application a {
       color: #4682B4;
+}
+
+#btn-commands {
+      margin: 25px auto 0;
+      background-color: darkgreen;
+      color: white;
+      border-radius: 100px;
+      width: 200px;
+      height: 50px;
+      padding: 10px;
+      font-size: 16px;
+}
+
+#btn-commands a {
+      color: lightgray;
+}
+
+#td-crt-dmg-file {
+      background-color: black;
+}
+
+#cd-crt-dmg-file {
+      color: white;
 }
