@@ -6,9 +6,8 @@
 <br>
 
 #Applications
-<br>
 <p> Applications I find useful </p>
+<br>
 
 #Commands
-<br>
 <p> Commands I find useful </p>
