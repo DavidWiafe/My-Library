@@ -1,13 +1,11 @@
-<strong>My Library</strong>
+# My Library
 
-<br>
-<strong><u>Research</u></strong>
-<p> Research topics </p>
-<br>
+## Research
+Research topics
 
-<strong><u>Applications</u></strong>
-<p> Applications I find useful </p>
-<br>
+## Applications
+Applications I find useful
 
-<strong><u>Commands</u></strong>
-<p> Commands I find useful </p>
+
+## Commands
+Commands I find useful
