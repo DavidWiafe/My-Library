@@ -61,11 +61,11 @@ th {
 }
 
 #btn-research a {
-      color: #4682B4;
+      color: white; /*#4682B4;*/
 }
 
 #btn-application a {
-      color: #4682B4;
+      color:white; /* #4682B4;*/
 }
 
 #btn-commands {
@@ -80,7 +80,7 @@ th {
 }
 
 #btn-commands a {
-      color: lightgray;
+      color: white;
 }
 
 #td-crt-dmg-file {
